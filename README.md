@@ -1,14 +1,18 @@
-# Product Prioritization & Roadmap Tool
+# Northstar: Product Prioritization & Roadmap Tool
 
 **An interactive product decision-support prototype for prioritization, roadmap planning, capacity management, and stakeholder alignment.**
 
+**Product Lifecycle Stage:** Strategize
+
+**[Launch Interactive Prototype](https://nnekaanadu-art.github.io/product-prioritization-tool/)**
+
 ## Overview
 
-Product teams frequently face competing priorities, limited delivery capacity, and changing business needs. Making informed decisions requires a structured way to evaluate opportunities, understand tradeoffs, and communicate priorities.
+Product teams frequently face competing priorities, limited delivery capacity, and changing business needs. Making informed decisions requires a structured way to evaluate opportunities, understand trade-offs, and communicate priorities.
 
-I developed this prototype to explore how product teams can make prioritization decisions more transparent, connect priorities to delivery plans, and support stakeholder conversations with data.
+I developed Northstar to explore how product teams can make prioritization decisions more transparent, connect priorities to delivery plans, and support stakeholder conversations with data.
 
-The tool demonstrates my approach to product strategy, portfolio planning, and AI-assisted prototyping.
+The prototype demonstrates my approach to product strategy, portfolio planning, capacity-aware decision-making, and AI-assisted prototyping.
 
 ## The Problem
 
@@ -18,47 +22,55 @@ Product teams often encounter challenges such as:
 - Inconsistent methods for evaluating initiatives.
 - Limited visibility into delivery capacity.
 - Difficulty understanding the impact of prioritization decisions.
-- Challenges communicating roadmap tradeoffs to leadership.
+- Challenges communicating roadmap trade-offs to leadership.
 
 ## The Solution
 
-An interactive decision-support tool designed to bring prioritization, roadmap planning, and capacity considerations into one experience.
+Northstar brings initiative prioritization, roadmap planning, capacity considerations, and executive decision support into one interactive experience.
 
 ### Key Capabilities
 
 **Initiative Management**
 
-Capture and organize initiatives to support consistent evaluation and planning.
+Capture, edit, and organize initiatives to support consistent evaluation and planning.
 
 **Prioritization Frameworks**
 
-Evaluate initiatives using structured scoring criteria to support more transparent prioritization decisions.
+Evaluate initiatives using structured scoring methods, including weighted value, RICE, and Weighted Shortest Job First (WSJF). Adjust scoring inputs to reflect different business contexts and priorities.
 
-**Roadmap Planning**
+**Interactive Roadmap Planning**
 
-Translate priorities into a roadmap that helps communicate planned delivery and sequencing.
+Translate prioritized initiatives into a quarterly roadmap. Adjust initiative sequencing through drag-and-drop planning to explore alternative delivery approaches.
 
-**Capacity Planning**
+**Capacity Planning and Scenario Comparison**
 
-Consider available delivery capacity when evaluating roadmap feasibility and tradeoffs.
+Evaluate planned initiatives against available delivery capacity. Compare alternative scenarios to understand constraints, trade-offs, and potential delivery impacts.
 
 **Executive Decision Support**
 
-Present priorities, constraints, and tradeoffs in a format suitable for stakeholder and leadership discussions.
+Generate an executive-oriented portfolio brief summarizing priorities, capacity considerations, trade-offs, and decisions requiring leadership attention.
 
 ## Product Approach
 
 The prototype reflects several product management principles:
 
 1. **Value-driven prioritization:** Evaluate initiatives against defined criteria rather than relying solely on stakeholder urgency.
-2. **Transparent decision-making:** Make prioritization inputs and tradeoffs visible.
+2. **Transparent decision-making:** Make prioritization inputs, assumptions, and trade-offs visible.
 3. **Capacity-aware planning:** Connect priorities to realistic delivery constraints.
 4. **Stakeholder alignment:** Provide a shared view of priorities and planned outcomes.
-5. **Continuous improvement:** Allow prioritization decisions to evolve as business needs change.
+5. **Scenario-based decision support:** Explore alternatives before committing to a delivery plan.
+6. **Continuous improvement:** Revisit priorities and plans as business needs and capacity change.
 
 ## Technology and Development
 
-This is an independent portfolio prototype developed through AI-assisted prototyping and iterative product direction.
+Northstar is an independent portfolio prototype developed through AI-assisted prototyping and iterative product direction.
+
+The development approach emphasizes:
+
+- Translating product-management requirements into interactive workflows.
+- Designing configurable scoring and planning experiences.
+- Testing usability and refining functionality through iteration.
+- Presenting complex planning information in an accessible format for decision-makers.
 
 The emphasis is on demonstrating product thinking, workflow design, and decision-support capabilities rather than representing a production enterprise platform.
 
@@ -71,24 +83,41 @@ The emphasis is on demonstrating product thinking, workflow design, and decision
 
 ## Future Enhancements
 
-Potential future enhancements include:
+Potential enhancements include:
 
-- Additional prioritization frameworks.
-- Expanded scenario modeling.
-- More detailed delivery capacity forecasting.
-- Enhanced executive reporting.
-- Data import and export capabilities.
+- Integration with external backlog and project-management platforms.
+- Multi-team capacity planning and dependency management.
+- Historical tracking of prioritization decisions and changes.
+- Additional portfolio analytics and reporting capabilities.
+
+These are potential enhancements, not features currently available in the prototype.
+
+## Explore the Prototype
+
+**[Launch Northstar](https://nnekaanadu-art.github.io/product-prioritization-tool/)**
+
+Explore the broader collection of product-management tools and digital experiences through my [interactive portfolio](https://nnekaanadu-art.github.io/).
 
 ## Disclaimer
 
-This is an independent demonstration prototype using fictional sample information. It is not affiliated with an employer or intended to represent a production enterprise application.
+Northstar is an independent demonstration prototype using fictional sample information. It is not affiliated with an employer and is not intended to represent a production enterprise application.
+
+<!-- UNIVERSAL FOOTER START -->
 
 ---
 
-**Created by Nneka Anadu**
+<p align="center">
+  <strong>Product Thinking in Practice</strong>
+</p>
 
-[View My Portfolio](https://nnekaanadu-art.github.io/) | [Connect on LinkedIn](https://www.linkedin.com/in/NnekaAnadu)
+<p align="center">
+  <a href="https://nnekaanadu-art.github.io/">Portfolio Home</a> |
+  <a href="https://www.linkedin.com/in/NnekaAnadu">LinkedIn</a> |
+  <a href="https://github.com/nnekaanadu-art">GitHub</a>
+</p>
 
+<p align="center">
+  © 2026 Nneka Anadu. All rights reserved.
+</p>
 
-© 2026 Nneka Anadu. All rights reserved.
-
+<!-- UNIVERSAL FOOTER END -->
